@@ -1,0 +1,11 @@
+# Machine learning and data handling
+pandas
+numpy
+scikit-learn
+xgboost
+
+# Web app framework
+streamlit
+
+# Environment variable loader (optional; fallback already implemented)
+python-dotenv
